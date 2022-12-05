@@ -1,0 +1,8 @@
+{
+  "name": "College Timetable",
+  "description": "Show Timetable in floating panel",
+  "uuid": "daniil.pavlovich1@gmail.com",
+  "shell-version": [
+    "41"
+  ]
+}
